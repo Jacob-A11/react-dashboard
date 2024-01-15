@@ -1,4 +1,4 @@
-# [Material Tailwind Dashboard React](http:/react-dashboard-v1.vercel.app/dashboard/?ref=readme-mtdr)
+# [Material Tailwind Dashboard React](https://react-dashboard-v1.vercel.app?_vercel_share=tsJHRKBPGkyAPIXv39WE2h4OeqXpEW2k)
 
 ![Image](./public/dashboard-react.jpg)
 
@@ -22,7 +22,7 @@ You can read more about the [documentation here](https://www.material-tailwind.c
 
 If you want to get inspiration or just show something directly to your clients, you can jump-start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project.
 
-View [example pages here](https://react-dashboard-v1.vercel.app/dashboard/home).
+View [example pages here](https://react-dashboard-v1.vercel.app?_vercel_share=tsJHRKBPGkyAPIXv39WE2h4OeqXpEW2k/home).
 
 **HELPFUL LINKS**
 
@@ -45,10 +45,10 @@ Let us know your thoughts below. And good luck with development!
 
 ## Demo
 
-- [Dashboard page](https://react-dashboard-v1.vercel.app/dashboard/home?ref=readme-mtdr)
-- [Profile page](https://react-dashboard-v1.vercel.app/dashboard/profile?ref=readme-mtdr)
-- [Tables page](https://react-dashboard-v1.vercel.app/dashboard/tables?ref=readme-mtdr)
-- [Notifications page](https://react-dashboard-v1.vercel.app/dashboard/notifications?ref=readme-mtdr)
+- [Dashboard page](https://react-dashboard-v1.vercel.app?_vercel_share=tsJHRKBPGkyAPIXv39WE2h4OeqXpEW2k/home?ref=readme-mtdr)
+- [Profile page](https://react-dashboard-v1.vercel.app?_vercel_share=tsJHRKBPGkyAPIXv39WE2h4OeqXpEW2k/profile?ref=readme-mtdr)
+- [Tables page](https://react-dashboard-v1.vercel.app?_vercel_share=tsJHRKBPGkyAPIXv39WE2h4OeqXpEW2k/tables?ref=readme-mtdr)
+- [Notifications page](https://react-dashboard-v1.vercel.app?_vercel_share=tsJHRKBPGkyAPIXv39WE2h4OeqXpEW2k/notifications?ref=readme-mtdr)
 - [Sign in page](https://ex/#/auth/sign-in?ref=readme-mtdr)
 - [Sign up page](https://ex/#/auth/sign-up?ref=readme-mtdr)
 
